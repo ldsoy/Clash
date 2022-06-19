@@ -19,4 +19,4 @@ https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://ra
 
 3.比如说使用NetFlix模板
 
-https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://raw.githubusercontent.com/ldsoy/Clash/main/shenseven/NetFlix.ini
+https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://raw.githubusercontent.com/ldsoy/Clash/main/shenseven/NetFilx.ini
