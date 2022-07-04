@@ -15,7 +15,7 @@ https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://ra
 
 效果图：
 
-![image](https://user-images.githubusercontent.com/67219859/177072619-7f1ed3f1-3224-4778-be01-3c0d4cb9f547.png)
+![image](https://user-images.githubusercontent.com/67219859/177072619-7f1ed3f1-3224-4778-be01-3c0d4cb9f547.png=50%x50%)
 
 
 2.比如说使用Mini模板
@@ -32,5 +32,7 @@ https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://ra
 https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://raw.githubusercontent.com/ldsoy/Clash/main/shenseven/NetFilx.ini
 
 效果图：
+
+![image](https://user-images.githubusercontent.com/67219859/177072920-9e544709-4ed8-44fa-9958-7b525dec351c.png)
 
 
